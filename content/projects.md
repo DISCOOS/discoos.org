@@ -8,7 +8,7 @@ DISCOOS currently maintains the following projects
 
 * EventStore Client for dart
 * RescueMe
-* SARSys
+* [SARSys](projects/sarsys.md)
 
 Projects not actively managed
 * Kova
