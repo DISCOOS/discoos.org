@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DISCO Open Source</title>
+    <title>About on DISCO Open Source</title>
     <link>https://discoos.org/</link>
-    <description>Recent content on DISCO Open Source</description>
+    <description>Recent content in About on DISCO Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://discoos.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://discoos.org/projects/</link>
+      <pubDate>Sun, 05 Sep 2021 21:17:59 +0200</pubDate>
+      
+      <guid>https://discoos.org/projects/</guid>
+      <description>DISCOOS currently maintains the following projects
+ EventStore Client for dart RescueMe SARSys  Projects not actively managed
+ Kova SAR-Status OziCircles SAR-Tag Track-Grabber  </description>
+    </item>
+    
   </channel>
 </rss>
