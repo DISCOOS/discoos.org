@@ -1,0 +1,5 @@
+# IntelliJ files
+.idea
+
+# Huge files
+resources/_gen
