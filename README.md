@@ -6,5 +6,5 @@
 
 ## Hugo commands
 
-* New page `hugo new {path} -k page `
-* New section `hugo new {name} -k section`
+* New project as page `hugo new projects/sarsys.md -k page`
+* New section `hugo new {name} -k section` (projects is a section)
