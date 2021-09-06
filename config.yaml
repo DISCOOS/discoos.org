@@ -23,7 +23,7 @@ permalinks:
 params:
   # Header text, can be markdown
   project_name: DISCO Open Source
-  project_tagline: We to develop free and open source software for Search and Rescue
+  project_tagline: We develop free and open source software for Search and Rescue
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
