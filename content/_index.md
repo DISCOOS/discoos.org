@@ -12,3 +12,5 @@ planning and allocation processes.
 
 You can find our code repository at [Github](https://github.com/DISCOOS).
 
+Read our governing [bylaws](about/bylaws) to learn more about our organization's mission and governance or take a look at who is in the [board](about/board).  
+
