@@ -1,14 +1,14 @@
-baseURL: https://discoos.org
+baseURL: https://www.discoos.org
 languageCode: en-us
 defaultContentLanguage: en
 title: DISCO Open Source
 theme: cayman-hugo-theme
 
 # Google analytics
-googleAnalytics: #UA-123456789-1
+#googleAnalytics: #UA-123456789-1
 
 # Disqus comments
-disqusShortname: yourdiscussshortname
+disqusShortname: discoos
 
 # Syntax highlighting
 pygmentsCodefences: true
