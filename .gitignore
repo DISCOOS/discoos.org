@@ -3,3 +3,4 @@
 
 # Huge files
 resources/_gen
+.hugo_build.lock
