@@ -1,5 +1,5 @@
 ---
-title: "SARSys Terms and Conditions"
+title: "SARSys"
 date: 2022-08-31T21:31:03+02:00
 draft: false
 ---
