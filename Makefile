@@ -10,7 +10,3 @@ configure:
 
 run:
 	hugo server
-
-release:
-	echo 'Release to Netlify...'
-
