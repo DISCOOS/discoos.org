@@ -9,3 +9,7 @@
 ## Hugo commands
 
 * New project as page `hugo new projects/sarsys.md -k page`
+
+## Deployment
+
+This project is deployed to www.discoos.org using [Netlify](https://netlify.com)
