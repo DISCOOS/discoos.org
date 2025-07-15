@@ -6,11 +6,9 @@ on:
       - main  # Set a branch to deploy
   pull_request:
 
-runs-on: self-hosted
-
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: self-hosted
     steps:
       - uses: actions/checkout@v4
         with:
