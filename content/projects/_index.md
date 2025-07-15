@@ -10,6 +10,7 @@ DISCOOS currently maintains the following projects
 * [Eventous for dart](eventuous-dart)
 * [RescueMe](rescueme)
 * [SARSys](sarsys)
+* [RingDrill](ringdrill)
 
 
 Projects not actively managed

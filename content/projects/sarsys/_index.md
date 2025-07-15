@@ -12,4 +12,4 @@ System for command, control and communications managements for Search and Rescue
 * https://github.com/DISCOOS/sarsys-data
 * https://github.com/DISCOOS/sarsys-backend
 
-See [Privacy Policy](privacy) and [Terms and Condition](tac).
+See [Privacy Policy](privacy) and [Terms of Use](tos).

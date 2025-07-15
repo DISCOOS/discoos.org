@@ -4,7 +4,7 @@ date: 2022-08-31T21:31:03+02:00
 draft: false
 ---
 
-**Terms & Conditions**
+**Terms of Use**
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that 
 you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, 
@@ -63,7 +63,7 @@ giving notice of termination to you. Unless we tell you otherwise, upon any term
 licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from 
 your device.
 
-**Changes to This Terms and Conditions**
+**Changes to This Terms of Use**
 
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically 
 for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
