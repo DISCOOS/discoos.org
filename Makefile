@@ -10,3 +10,6 @@ configure:
 
 run:
 	hugo server
+
+build:
+	hugo --gc --minify
