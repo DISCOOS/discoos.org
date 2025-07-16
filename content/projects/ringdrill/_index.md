@@ -4,7 +4,7 @@ date: 2025-07-15T15:00:00+02:00
 draft: false
 ---
 
-System for command, control and communications managements for Search and Rescue
+Efficient station-based training. Organize, run and track drills with ease.
 
 ### About
 RingDrill makes it easy to plan and manage group-based ring exercises – commonly used in tactical, emergency, or educational training scenarios.
