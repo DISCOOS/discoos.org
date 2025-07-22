@@ -6,6 +6,8 @@ draft: false
 
 Efficient station-based training. Organize, run and track drills with ease.
 
+See [Privacy Policy](privacy) and [Terms of Use](tos).
+
 ### About
 RingDrill makes it easy to plan and manage group-based ring exercises – commonly used in tactical, emergency, or educational training scenarios.
 
@@ -23,5 +25,3 @@ RingDrill is developed for real-world needs in operations training – fast, foc
 
 ### Repositories
 * https://github.com/DISCOOS/ringdrill
-
-See [Privacy Policy](privacy) and [Terms of Use](tos).
