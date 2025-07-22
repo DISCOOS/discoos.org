@@ -4,7 +4,7 @@ date: 2022-08-31T21:31:03+02:00
 draft: false
 ---
 
-**Terms of Use**
+**Terms of Service**
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that 
 you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, 
